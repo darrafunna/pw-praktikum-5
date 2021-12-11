@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+
+.mt-5{
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.gambar{
+    width: 80%;
+    float: right;
+    margin-top: 9%;
+}
+
+.pembungkus{
+    display: flex;
+}
+
+.judul{
+    margin-top: 8%;
+}
+
+.judul h1{
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.judul button{
+    padding-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    background-color: #F58E29;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+.btn{
+    margin-left: 5px;
+}
